@@ -1,16 +1,18 @@
-## Hi there 👋
+# Shahzaib Nagi
 
-<!--
-**noob13190/noob13190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small self-hosted services: Node.js and PHP backends, Android utilities in Kotlin, and the Linux boxes they run on.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Free subdomain service** - a DNS panel that provisions records through a registrar API, with per-user limits and abuse controls
+- **[sms-forwarder-android](https://github.com/noob13190/sms-forwarder-android)** - forwards SMS from an Android device to a webhook, built around WorkManager and a foreground service
+- **[Asset Manager](https://github.com/noob13190/Asset-Manager)** - TypeScript monorepo, Express API plus a front-end sandbox
+
+## Comfortable with
+
+Node.js - Express - PHP - Kotlin - MySQL - SQLite - nginx - Docker - Linux administration
+
+## Elsewhere
+
+- [recipe-website](https://github.com/noob13190/recipe-website) - static HTML/CSS site, no build step
+- [flower](https://github.com/noob13190/flower) - one-page gallery, deployed on Vercel
