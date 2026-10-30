@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Shahzaib%20Nagi&fontSize=46&fontColor=e6edf3&fontAlignY=34&desc=full%20stack%20developer%20%C2%B7%203%20years%20%C2%B7%20solo%20%C2%B7%20node.js%20typescript%20php%20kotlin&descAlignY=56&descSize=16&animation=fadeIn" alt="Shahzaib Nagi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b10,100:1f6feb&height=180&section=header&text=Shahzaib%20Nagi&fontSize=46&fontColor=e6edf3&fontAlignY=34&desc=full%20stack%20developer%20%C2%B7%203%20years%20%C2%B7%20solo%20%C2%B7%20node.js%20typescript%20php%20kotlin&descAlignY=56&descSize=16&animation=fadeIn" alt="Shahzaib Nagi" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=39D353&center=true&vCenter=true&width=680&lines=Full+stack+developer+%E2%80%94+interface%2C+API%2C+data%2C+server;Node.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+PHP+%C2%B7+Kotlin;E-commerce+platforms%2C+DNS+infrastructure%2C+Android+apps;nginx+%C2%B7+Docker+%C2%B7+MySQL+%C2%B7+Linux" alt="what I do" />
 
@@ -21,7 +21,14 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,php,kotlin,docker,nginx,linux,mysql,git,github&theme=dark" alt="stack" />
+
+</div>
+
 ---
+
 
 ### What I run in production
 
@@ -70,6 +77,10 @@ Three years solo, shipping client work end to end: the interface, the API behind
 ### Numbers
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahzaibnagi&theme=github_dark" alt="profile summary" width="660" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahzaibnagi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=false&card_width=660" alt="github stats" width="660" />
 
 <img src="assets/stats.svg" alt="live stats" width="660" />
 
