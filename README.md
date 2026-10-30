@@ -100,4 +100,4 @@ Three years solo, shipping client work end to end: the interface, the API behind
 
 ---
 
-<div align="center"><sub>Pakistan · <a href="https://brandpromotions.shop">brandpromotions.shop</a></sub></div>
+<div align="center"><sub>Pakistan · <a href="https://shahzaibnagi.github.io/">portfolio</a> · <a href="https://dns.shahzaibnagi.dev">dns.shahzaibnagi.dev</a> · <a href="https://adswinly.com">adswinly.com</a> · <a href="https://zhscollections.com">zhscollections.com</a> · <a href="https://ceezfragnances.shop">ceezfragnances.shop</a> · <a href="https://mirabelcollections.com">mirabelcollections.com</a> · <a href="https://brandpromotions.shop">brandpromotions.shop</a></sub></div>
