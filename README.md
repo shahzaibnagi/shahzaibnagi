@@ -11,6 +11,7 @@
 
 <br/>
 
+<a href="https://shahzaibnagi.github.io/"><img src="https://img.shields.io/badge/portfolio-shahzaibnagi.github.io-39d353?style=flat-square&logo=githubpages&logoColor=white" alt="portfolio" /></a>
 <a href="https://zhscollections.com"><img src="https://img.shields.io/badge/zhscollections.com-111?style=flat-square&logo=shopify&logoColor=white" alt="zhscollections" /></a>
 <a href="https://ceezfragnances.shop"><img src="https://img.shields.io/badge/ceezfragnances.shop-111?style=flat-square&logo=shopify&logoColor=white" alt="ceezfragnances" /></a>
 <a href="https://mirabelcollections.com"><img src="https://img.shields.io/badge/mirabelcollections.com-111?style=flat-square&logo=shopify&logoColor=white" alt="mirabel" /></a>
