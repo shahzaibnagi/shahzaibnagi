@@ -48,8 +48,6 @@ Three years solo, shipping client work end to end: the interface, the API behind
 
 **`youtube-downloader`** — endpoint that streams MP4 or extracts MP3 with `ytdl-core`, deployed as a serverless function.
 
-**`recipe-website`** / **`flower`** — plain HTML and CSS, no build step.
-
 ---
 
 ### Toolbox
