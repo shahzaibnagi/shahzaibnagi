@@ -8,6 +8,10 @@ on:
     paths:
       - scripts/stats.mjs
 
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
