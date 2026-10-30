@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Shahzaib%20Nagi&fontSize=46&fontColor=e6edf3&fontAlignY=34&desc=backend%20developer%20%C2%B7%20node.js%20%C2%B7%20php%20%C2%B7%20kotlin&descAlignY=56&descSize=16&animation=fadeIn" alt="Shahzaib Nagi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=39D353&center=true&vCenter=true&width=640&lines=I+build+small+services+that+run+on+cheap+VPSes;Node.js+%C2%B7+Express+%C2%B7+PHP+%C2%B7+Kotlin;DNS+APIs%2C+webhooks%2C+Android+utilities;nginx+%C2%B7+Docker+%C2%B7+MySQL+%C2%B7+Linux" alt="what I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=39D353&center=true&vCenter=true&width=640&lines=I+build+and+run+production+sites+end+to+end;Node.js+%C2%B7+Express+%C2%B7+PHP+%C2%B7+Kotlin;DNS+APIs%2C+webhooks%2C+Android+utilities;nginx+%C2%B7+Docker+%C2%B7+MySQL+%C2%B7+Linux" alt="what I do" />
 
 <br/>
 
@@ -14,15 +14,27 @@
 
 ---
 
-### What I work on
+### What I run in production
+
+Live stores and platforms, built and maintained end to end — front end, backend, DNS and the server they sit on.
+
+| Site | What it is |
+|---|---|
+| [zhscollections.com](https://zhscollections.com) | Fashion store |
+| [ceezfragnances.shop](https://ceezfragnances.shop) | Perfume store — oud and attars |
+| [mirabelcollections.com](https://mirabelcollections.com) | Clothing brand site |
+| [adswinly.com](https://adswinly.com) | Ad attention platform |
+| [dns.shahzaibnagi.dev](https://dns.shahzaibnagi.dev) | Free subdomain service — DNS API + panel |
+
+### Open source work
 
 **`sms-forwarder-android`** — Android app that forwards incoming SMS to a webhook you control. Kotlin, WorkManager for retries, a foreground service so aggressive OEM battery managers don't kill it, and a GitHub Action that builds the APK on push.
 
 **`Asset-Manager`** — TypeScript monorepo: an Express API and a front-end sandbox wired together with pnpm workspaces.
 
-**Free subdomain service** — DNS API integration plus a PHP panel that hands out records to users. Runs on a single VPS behind nginx.
+**`BRAINWAVE-MD`** — command layer for a WhatsApp MD bot: 31 modules covering stickers, media downloaders, group tools and auto-responders, plus the Vercel pairing page in front of it.
 
-**`recipe-website`** / **`flower`** — plain HTML and CSS, no build step. Sometimes the small static thing is the right answer.
+**`recipe-website`** / **`flower`** — plain HTML and CSS, no build step.
 
 ---
 
