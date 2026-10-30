@@ -29,7 +29,6 @@
 
 ---
 
-
 ### What I run in production
 
 Three years solo, shipping client work end to end: the interface, the API behind it, the data model and the servers they run on.
@@ -77,10 +76,6 @@ Three years solo, shipping client work end to end: the interface, the API behind
 ### Numbers
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahzaibnagi&theme=github_dark" alt="profile summary" width="660" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahzaibnagi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=false&card_width=660" alt="github stats" width="660" />
 
 <img src="assets/stats.svg" alt="live stats" width="660" />
 
